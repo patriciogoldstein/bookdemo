@@ -1,0 +1,1 @@
+This repository contains tentative solutions to the exercises in *Open Economy Macroeconomics* by Martín Uribe and Stephanie Schmitt-Grohé (Princeton University Press, 2017). The solutions are meant to aid understanding and may contain errors; if you have corrections or alternative approaches, please post them in the corresponding discussion thread in the Discussions tab.
